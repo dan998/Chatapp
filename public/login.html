@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Login - ChatApp</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<h2>Login</h2>
+<form id="loginForm">
+<input name="username" placeholder="Username" required>
+<input name="password" type="password" id="loginPassword" placeholder="Password" required>
+<button type="submit">Login</button>
+</form>
+<p style="margin-top:10px;"><a href="forgot.html">Forgot Password?</a></p>
+<p>Don't have an account? <a href="register.html">Register</a></p>
+</div>
+
+<script>
+// show password on hold
+const loginPassword = document.getElementById('loginPassword');
+loginPassword.addEventListener('mousedown', ()=>loginPassword.type='text');
+loginPassword.addEventListener('mouseup', ()=>loginPassword.type='password');
+loginPassword.addEventListener('mouseleave', ()=>loginPassword.type='password');
+
+const post = async(url,data)=>{ 
+  const r = await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
+  return r.json();
+};
+
+document.getElementById('loginForm').addEventListener('submit', async e=>{
+  e.preventDefault();
+  const f=e.target;
+  const res = await post('/login',{username:f.username.value.trim(), password:f.password.value});
+  if(res.success){
+    sessionStorage.setItem('username', f.username.value.trim());
+    sessionStorage.setItem('ip', res.ip);
+    window.location.href='chat.html';
+  } else {
+    alert(res.message);
+  }
+});
+</script>
+</body>
+</html>

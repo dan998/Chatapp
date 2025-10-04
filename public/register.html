@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Register - ChatApp</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<h2>Register</h2>
+<form id="registerForm">
+<input name="username" placeholder="Username" required>
+<input name="password" type="password" id="regPassword" placeholder="Password" required>
+<input name="phone" placeholder="Phone number" required>
+<input name="securityQuestion" placeholder="Security Question" required>
+<input name="securityAnswer" placeholder="Security Answer" required>
+<button type="submit">Register</button>
+</form>
+<p>Already have an account? <a href="login.html">Login</a></p>
+</div>
+
+<script>
+// show password on hold
+const regPassword = document.getElementById('regPassword');
+regPassword.addEventListener('mousedown', ()=>regPassword.type='text');
+regPassword.addEventListener('mouseup', ()=>regPassword.type='password');
+regPassword.addEventListener('mouseleave', ()=>regPassword.type='password');
+
+const post = async(url,data)=>{ 
+  const r = await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
+  return r.json();
+};
+
+document.getElementById('registerForm').addEventListener('submit', async e=>{
+  e.preventDefault();
+  const f=e.target;
+  const res = await post('/register',{
+    username: f.username.value.trim(),
+    password: f.password.value,
+    phone: f.phone.value.trim(),
+    securityQuestion: f.securityQuestion.value.trim(),
+    securityAnswer: f.securityAnswer.value.trim()
+  });
+  alert(res.message);
+  if(res.success) window.location.href='login.html';
+});
+</script>
+</body>
+</html>

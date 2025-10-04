@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Forgot Password - ChatApp</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<h2>Forgot Password</h2>
+
+<form id="forgotForm">
+<input name="username" id="username" placeholder="Username" required>
+<p id="securityQuestion" style="display:none;"></p>
+<input name="phone" id="phone" placeholder="Phone number" required style="display:none;">
+<input name="securityAnswer" id="securityAnswer" placeholder="Security Answer" required style="display:none;">
+<input name="newPassword" id="newPassword" type="password" placeholder="New Password" required style="display:none;">
+<button type="submit" id="resetBtn" style="display:none;">Set New Password</button>
+</form>
+
+<p><a href="login.html">Back to Login</a></p>
+</div>
+
+<script>
+const post = async(url,data)=>{
+  const r = await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
+  return r.json();
+};
+const get = async(url)=>{
+  const r = await fetch(url);
+  return r.json();
+};
+
+const usernameInput = document.getElementById('username');
+const securityQuestionP = document.getElementById('securityQuestion');
+const securityAnswerInput = document.getElementById('securityAnswer');
+const phoneInput = document.getElementById('phone');
+const newPasswordInput = document.getElementById('newPassword');
+const resetBtn = document.getElementById('resetBtn');
+
+usernameInput.addEventListener('blur', async ()=>{
+  const username=usernameInput.value.trim();
+  if(!username) return;
+  const usersRes = await get('/users');
+  const user = usersRes.users.find(u=>u.username===username);
+  if(user){
+    securityQuestionP.textContent = "Security Question: "+user.securityQuestion;
+    securityQuestionP.style.display='block';
+    securityAnswerInput.style.display='block';
+    phoneInput.style.display='block';
+    newPasswordInput.style.display='block';
+    resetBtn.style.display='block';
+  } else {
+    securityQuestionP.textContent="Username not found.";
+    securityQuestionP.style.display='block';
+    securityAnswerInput.style.display='none';
+    phoneInput.style.display='none';
+    newPasswordInput.style.display='none';
+    resetBtn.style.display='none';
+  }
+});
+
+// show password on hold
+[newPasswordInput].forEach(input=>{
+  input.addEventListener('mousedown', ()=>input.type='text');
+  input.addEventListener('mouseup', ()=>input.type='password');
+  input.addEventListener('mouseleave', ()=>input.type='password');
+});
+
+// reset password
+document.getElementById('forgotForm').addEventListener('submit', async e=>{
+  e.preventDefault();
+  const f = e.target;
+  const res = await post('/resetPassword',{
+    username: f.username.value.trim(),
+    phone: f.phone.value.trim(),
+    securityAnswer: f.securityAnswer.value.trim(),
+    newPassword: f.newPassword.value
+  });
+  alert(res.message);
+  if(res.success) window.location.href='login.html';
+});
+</script>
+</body>
+</html>
