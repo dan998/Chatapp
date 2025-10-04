@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Dan",
+    "password": "love",
+    "phone": "5926819455",
+    "securityQuestion": "what do we love?",
+    "securityAnswer": "Money",
+    "createdAt": "2025-10-04T06:51:26.963Z"
+  },
+  {
+    "username": "saint",
+    "password": "iamsaint",
+    "phone": "0799400929",
+    "securityQuestion": "who?",
+    "securityAnswer": "saint",
+    "createdAt": "2025-10-04T12:27:09.704Z"
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "phone": "5927382523",
+    "securityQuestion": "who am i?",
+    "securityAnswer": "Dan",
+    "createdAt": "2025-10-04T13:37:30.767Z"
+  }
+]
