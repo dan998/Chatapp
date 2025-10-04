@@ -1,12 +1,17 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
+  "description": "Real-time chat app with self-notes and private messaging",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "body-parser": "^1.20.2"
+    "body-parser": "^1.20.2",
+    "socket.io": "^4.7.2"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
