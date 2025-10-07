@@ -5,7 +5,12 @@
     "phone": "5926819455",
     "securityQuestion": "what do we love?",
     "securityAnswer": "Money",
-    "createdAt": "2025-10-04T06:51:26.963Z"
+    "createdAt": "2025-10-04T06:51:26.963Z",
+    "lastLogin": {
+      "time": "2025-10-06T01:55:50.813Z",
+      "ip": "::1",
+      "error": "reserved range"
+    }
   },
   {
     "username": "saint",
@@ -21,6 +26,31 @@
     "phone": "5927382523",
     "securityQuestion": "who am i?",
     "securityAnswer": "Dan",
-    "createdAt": "2025-10-04T13:37:30.767Z"
+    "createdAt": "2025-10-04T13:37:30.767Z",
+    "lastLogin": {
+      "ip": "::1",
+      "geo": {
+        "status": "fail",
+        "message": "reserved range",
+        "query": "::1"
+      },
+      "time": "2025-10-05T18:38:05.831Z"
+    }
+  },
+  {
+    "username": "Suijin",
+    "password": "Suijin",
+    "phone": "0816097404",
+    "securityQuestion": "What's your name",
+    "securityAnswer": "Suijin",
+    "createdAt": "2025-10-04T14:32:39.699Z"
+  },
+  {
+    "username": "Ydhdbdb",
+    "password": "12",
+    "phone": "By prep 9009u2",
+    "securityQuestion": "12",
+    "securityAnswer": "12",
+    "createdAt": "2025-10-04T18:28:47.390Z"
   }
 ]
