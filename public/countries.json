@@ -1,0 +1,1797 @@
+[
+  {
+    "country": "Afghanistan",
+    "code": "+93",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Roshan", "prefixes": ["70", "71", "72"]},
+      {"name": "Etisalat Afghanistan", "prefixes": ["78", "79"]},
+      {"name": "MTN Afghanistan", "prefixes": ["76", "77"]}
+    ]
+  },
+  {
+    "country": "Albania",
+    "code": "+355",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Vodafone Albania", "prefixes": ["69"]},
+      {"name": "ALBtelecom", "prefixes": ["67", "68"]},
+      {"name": "Eagle Mobile", "prefixes": ["66"]}
+    ]
+  },
+  {
+    "country": "Algeria",
+    "code": "+213",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Mobilis", "prefixes": ["55", "56"]},
+      {"name": "Djezzy", "prefixes": ["77", "78"]},
+      {"name": "Ooredoo Algeria", "prefixes": ["66", "67"]}
+    ]
+  },
+  {
+    "country": "Andorra",
+    "code": "+376",
+    "phoneLength": 6,
+    "networks": [
+      {"name": "Andorra Telecom", "prefixes": ["3", "4", "7"]}
+    ]
+  },
+  {
+    "country": "Angola",
+    "code": "+244",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Unitel", "prefixes": ["91", "92", "93"]},
+      {"name": "Movicel", "prefixes": ["94", "95", "96"]}
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "code": "+1-268",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Digicel", "prefixes": ["4", "5"]},
+      {"name": "FLOW", "prefixes": ["2", "3"]}
+    ]
+  },
+  {
+    "country": "Argentina",
+    "code": "+54",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Movistar", "prefixes": ["15", "11"]},
+      {"name": "Claro", "prefixes": ["15", "11"]},
+      {"name": "Personal", "prefixes": ["15", "11"]}
+    ]
+  },
+  {
+    "country": "Armenia",
+    "code": "+374",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Beeline", "prefixes": ["77", "96"]},
+      {"name": "Ucom", "prefixes": ["91", "99"]},
+      {"name": "VivaCell-MTS", "prefixes": ["93", "94"]}
+    ]
+  },
+  {
+    "country": "Australia",
+    "code": "+61",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Telstra", "prefixes": ["04", "05"]},
+      {"name": "Optus", "prefixes": ["04", "05"]},
+      {"name": "Vodafone Australia", "prefixes": ["04"]}
+    ]
+  },
+  {
+    "country": "Austria",
+    "code": "+43",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "A1", "prefixes": ["65", "66"]},
+      {"name": "T-Mobile Austria", "prefixes": ["67", "68"]},
+      {"name": "Drei", "prefixes": ["69"]}
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "+994",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Bakcell", "prefixes": ["50", "51"]},
+      {"name": "Nar Mobile", "prefixes": ["55", "70"]},
+      {"name": "Azercell", "prefixes": ["77", "99"]}
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "code": "+1-242",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "BTC Bahamas", "prefixes": ["3", "4", "5"]},
+      {"name": "Aliv", "prefixes": ["6", "7"]}
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "code": "+973",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Batelco", "prefixes": ["3", "6"]},
+      {"name": "Zain Bahrain", "prefixes": ["3", "6"]},
+      {"name": "Viva Bahrain", "prefixes": ["3", "7"]}
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "code": "+880",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Grameenphone", "prefixes": ["17", "13"]},
+      {"name": "Robi", "prefixes": ["18", "19"]},
+      {"name": "Banglalink", "prefixes": ["16", "19"]}
+    ]
+  },
+  {
+    "country": "Barbados",
+    "code": "+1-246",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Digicel", "prefixes": ["2", "3"]},
+      {"name": "FLOW", "prefixes": ["4", "5"]}
+    ]
+  },
+  {
+    "country": "Belarus",
+    "code": "+375",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTS Belarus", "prefixes": ["29", "33"]},
+      {"name": "A1 Belarus", "prefixes": ["25", "44"]},
+      {"name": "life:)", "prefixes": ["29"]}
+    ]
+  },
+  {
+    "country": "Belgium",
+    "code": "+32",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Proximus", "prefixes": ["46", "47"]},
+      {"name": "Orange Belgium", "prefixes": ["46", "49"]},
+      {"name": "BASE", "prefixes": ["47"]}
+    ]
+  },
+  {
+    "country": "Belize",
+    "code": "+501",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Belize Telemedia Limited", "prefixes": ["6", "2"]},
+      {"name": "Smart Belize", "prefixes": ["6", "7"]}
+    ]
+  },
+  {
+    "country": "Benin",
+    "code": "+229",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "MTN Benin", "prefixes": ["90", "91"]},
+      {"name": "Moov Benin", "prefixes": ["96", "97"]},
+      {"name": "Glo Benin", "prefixes": ["99"]}
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "code": "+975",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "B-Mobile", "prefixes": ["17", "16"]},
+      {"name": "TashiCell", "prefixes": ["2", "3"]}
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "code": "+591",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Entel Bolivia", "prefixes": ["6", "7"]},
+      {"name": "Tigo Bolivia", "prefixes": ["7", "6"]},
+      {"name": "Viva Bolivia", "prefixes": ["7", "6"]}
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "code": "+387",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "BH Telecom", "prefixes": ["61", "62"]},
+      {"name": "HT Eronet", "prefixes": ["63", "64"]},
+      {"name": "m:tel", "prefixes": ["65", "66"]}
+    ]
+  },
+  {
+    "country": "Botswana",
+    "code": "+267",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "BTC Botswana", "prefixes": ["71", "72"]},
+      {"name": "Orange Botswana", "prefixes": ["73", "74"]},
+      {"name": "Mascom", "prefixes": ["75", "76"]}
+    ]
+  },
+  {
+    "country": "Brazil",
+    "code": "+55",
+    "phoneLength": 11,
+    "networks": [
+      {"name": "Vivo", "prefixes": ["11", "12", "13"]},
+      {"name": "Claro", "prefixes": ["14", "15", "16"]},
+      {"name": "TIM", "prefixes": ["17", "18", "19"]}
+    ]
+  },
+  {
+    "country": "Brunei",
+    "code": "+673",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "DST", "prefixes": ["2", "3"]},
+      {"name": "TelBru", "prefixes": ["7"]}
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "code": "+359",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "A1 Bulgaria", "prefixes": ["88", "87"]},
+      {"name": "Vivacom", "prefixes": ["87", "89"]},
+      {"name": "Telenor Bulgaria", "prefixes": ["87", "88"]}
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "+226",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Telecel Faso", "prefixes": ["70", "71"]},
+      {"name": "Orange Burkina Faso", "prefixes": ["60", "61"]},
+      {"name": "Moov Burkina Faso", "prefixes": ["65", "66"]}
+    ]
+  },
+  {
+    "country": "Burundi",
+    "code": "+257",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Lumitel", "prefixes": ["79", "75"]},
+      {"name": "Africell Burundi", "prefixes": ["76", "77"]},
+      {"name": "Onatel", "prefixes": ["78"]}
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "code": "+855",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Metfone", "prefixes": ["12", "13", "14"]},
+      {"name": "Cellcard", "prefixes": ["15", "16"]},
+      {"name": "Smart Axiata", "prefixes": ["10", "11"]}
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "code": "+237",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN Cameroon", "prefixes": ["6", "5"]},
+      {"name": "Orange Cameroon", "prefixes": ["6", "2"]},
+      {"name": "Nexttel", "prefixes": ["6", "9"]}
+    ]
+  },
+  {
+    "country": "Canada",
+    "code": "+1",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Rogers", "prefixes": ["204", "236", "249"]},
+      {"name": "Bell Canada", "prefixes": ["226", "236", "249"]},
+      {"name": "Telus", "prefixes": ["250", "289", "306"]}
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "code": "+238",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "CV Telecom", "prefixes": ["2", "9"]},
+      {"name": "Unitel T+","prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "code": "+236",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Orange CAR", "prefixes": ["70", "75"]},
+      {"name": "Moov CAR", "prefixes": ["76", "77"]},
+      {"name": "TelCel", "prefixes": ["78", "79"]}
+    ]
+  },
+  {
+    "country": "Chad",
+    "code": "+235",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Tchad Mobile", "prefixes": ["66", "67"]},
+      {"name": "Moov Chad", "prefixes": ["68", "69"]},
+      {"name": "Sotel Tchad", "prefixes": ["63", "64"]}
+    ]
+  },
+  {
+    "country": "Chile",
+    "code": "+56",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Movistar Chile", "prefixes": ["9"]},
+      {"name": "Claro Chile", "prefixes": ["9"]},
+      {"name": "Entel Chile", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "China",
+    "code": "+86",
+    "phoneLength": 11,
+    "networks": [
+      {"name": "China Mobile", "prefixes": ["134", "135", "136", "137", "138", "139"]},
+      {"name": "China Unicom", "prefixes": ["130", "131", "132"]},
+      {"name": "China Telecom", "prefixes": ["133", "149", "153"]}
+    ]
+  },
+  {
+    "country": "Colombia",
+    "code": "+57",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Claro Colombia", "prefixes": ["300", "301", "302"]},
+      {"name": "Movistar Colombia", "prefixes": ["310", "311", "312"]},
+      {"name": "Tigo Colombia", "prefixes": ["320", "321", "322"]}
+    ]
+  },
+  {
+    "country": "Comoros",
+    "code": "+269",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Comores Telecom", "prefixes": ["32", "33"]},
+      {"name": "Telma Comoros", "prefixes": ["34"]}
+    ]
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "code": "+242",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN Congo", "prefixes": ["06", "07"]},
+      {"name": "Airtel Congo", "prefixes": ["05", "08"]}
+    ]
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "code": "+243",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Vodacom Congo", "prefixes": ["82", "85"]},
+      {"name": "Airtel Congo", "prefixes": ["81", "83"]}
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "code": "+506",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Kolbi", "prefixes": ["8"]},
+      {"name": "Movistar Costa Rica", "prefixes": ["6"]},
+      {"name": "Claro Costa Rica", "prefixes": ["7"]}
+    ]
+  },
+  {
+    "country": "Croatia",
+    "code": "+385",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "HT Croatia", "prefixes": ["91", "92"]},
+      {"name": "A1 Croatia", "prefixes": ["95", "98"]},
+      {"name": "Tele2 Croatia", "prefixes": ["97"]}
+    ]
+  },
+  {
+    "country": "Cuba",
+    "code": "+53",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "ETECSA", "prefixes": ["5"]},
+      {"name": "Cubacel", "prefixes": ["3"]}
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "code": "+357",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Cyta", "prefixes": ["9"]},
+      {"name": "MTN Cyprus", "prefixes": ["99"]},
+      {"name": "Epic Cyprus", "prefixes": ["96"]}
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "code": "+420",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "T-Mobile Czech", "prefixes": ["60", "72", "73"]},
+      {"name": "O2 Czech", "prefixes": ["70", "77"]},
+      {"name": "Vodafone Czech", "prefixes": ["61", "73"]}
+    ]
+  },
+  {
+    "country": "Denmark",
+    "code": "+45",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "TDC", "prefixes": ["20", "21"]},
+      {"name": "Telia Denmark", "prefixes": ["22", "23"]},
+      {"name": "3 Denmark", "prefixes": ["24", "25"]}
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "code": "+253",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Djibouti Telecom", "prefixes": ["77", "78"]},
+      {"name": "Singtel Djibouti", "prefixes": ["75", "76"]}
+    ]
+  },
+  {
+    "country": "Dominica",
+    "code": "+1-767",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Digicel Dominica", "prefixes": ["2", "3"]},
+      {"name": "FLOW Dominica", "prefixes": ["4", "5"]}
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "+1-809",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Claro DR", "prefixes": ["8", "9"]},
+      {"name": "Altice DR", "prefixes": ["8", "9"]},
+      {"name": "Viva DR", "prefixes": ["8", "9"]}
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "code": "+593",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Claro Ecuador", "prefixes": ["09"]},
+      {"name": "Movistar Ecuador", "prefixes": ["09"]},
+      {"name": "CNT Ecuador", "prefixes": ["09"]}
+    ]
+  },
+  {
+    "country": "Egypt",
+    "code": "+20",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Vodafone Egypt", "prefixes": ["010", "012"]},
+      {"name": "Orange Egypt", "prefixes": ["011", "015"]},
+      {"name": "Etisalat Egypt", "prefixes": ["012", "015"]}
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "code": "+503",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Tigo El Salvador", "prefixes": ["6", "7"]},
+      {"name": "Claro El Salvador", "prefixes": ["6", "7"]},
+      {"name": "Movistar El Salvador", "prefixes": ["7"]}
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "+240",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "GECOMSA", "prefixes": ["222"]},
+      {"name": "Muni", "prefixes": ["222"]},
+      {"name": "Orange Equatorial Guinea", "prefixes": ["222"]}
+    ]
+  },
+  {
+    "country": "Eritrea",
+    "code": "+291",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Eritrea Telecommunication Services Corporation", "prefixes": ["7", "9"]},
+      {"name": "Sawa Eritrea", "prefixes": ["7"]}
+    ]
+  },
+  {
+    "country": "Estonia",
+    "code": "+372",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Telia Estonia", "prefixes": ["50", "51"]},
+      {"name": "Elisa Estonia", "prefixes": ["52", "53"]},
+      {"name": "Tele2 Estonia", "prefixes": ["54", "55"]}
+    ]
+  },
+  {
+    "country": "Eswatini",
+    "code": "+268",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "MTN Eswatini", "prefixes": ["60", "61"]},
+      {"name": "Swazi Mobile", "prefixes": ["62", "63"]}
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "code": "+251",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Ethio Telecom", "prefixes": ["91", "92", "93", "94", "95"]}
+    ]
+  },
+  {
+    "country": "Fiji",
+    "code": "+679",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Vodafone Fiji", "prefixes": ["7", "9"]},
+      {"name": "Digicel Fiji", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Finland",
+    "code": "+358",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Telia Finland", "prefixes": ["40", "41"]},
+      {"name": "Elisa Finland", "prefixes": ["45", "46"]},
+      {"name": "DNA Finland", "prefixes": ["50", "51"]}
+    ]
+  },
+  {
+    "country": "France",
+    "code": "+33",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Orange France", "prefixes": ["6", "7"]},
+      {"name": "SFR", "prefixes": ["6", "7"]},
+      {"name": "Bouygues Telecom", "prefixes": ["6", "7"]}
+    ]
+  },
+  {
+    "country": "Gabon",
+    "code": "+241",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Airtel Gabon", "prefixes": ["0", "1"]},
+      {"name": "Moov Gabon", "prefixes": ["0", "1"]}
+    ]
+  },
+  {
+    "country": "Gambia",
+    "code": "+220",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Africell Gambia", "prefixes": ["3", "4"]},
+      {"name": "QCell", "prefixes": ["5", "6"]},
+      {"name": "Comium Gambia", "prefixes": ["7"]}
+    ]
+  },
+  {
+    "country": "Georgia",
+    "code": "+995",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Geocell", "prefixes": ["5"]},
+      {"name": "MagtiCom", "prefixes": ["5"]},
+      {"name": "Beeline Georgia", "prefixes": ["7"]}
+    ]
+  },
+  {
+    "country": "Germany",
+    "code": "+49",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "T-Mobile Germany", "prefixes": ["15", "16", "17"]},
+      {"name": "Vodafone Germany", "prefixes": ["15", "16", "17"]},
+      {"name": "O2 Germany", "prefixes": ["15", "17"]}
+    ]
+  },
+  {
+    "country": "Ghana",
+    "code": "+233",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN Ghana", "prefixes": ["24", "27", "28"]},
+      {"name": "Vodafone Ghana", "prefixes": ["20", "23", "26"]},
+      {"name": "AirtelTigo Ghana", "prefixes": ["21", "22", "25"]}
+    ]
+  },
+  {
+    "country": "Greece",
+    "code": "+30",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Cosmote", "prefixes": ["69"]},
+      {"name": "Vodafone Greece", "prefixes": ["69"]},
+      {"name": "Wind Greece", "prefixes": ["69"]}
+    ]
+  },
+  {
+    "country": "Greenland",
+    "code": "+299",
+    "phoneLength": 6,
+    "networks": [
+      {"name": "Tele Greenland", "prefixes": ["2", "3", "4"]},
+      {"name": "Greenland Connect", "prefixes": ["5", "6"]}
+    ]
+  },
+  {
+    "country": "Grenada",
+    "code": "+1-473",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Digicel Grenada", "prefixes": ["4", "5"]},
+      {"name": "FLOW Grenada", "prefixes": ["5", "6"]}
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "code": "+502",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Claro Guatemala", "prefixes": ["4", "5"]},
+      {"name": "Tigo Guatemala", "prefixes": ["2", "3"]}
+    ]
+  },
+  {
+    "country": "Guinea",
+    "code": "+224",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Orange Guinea", "prefixes": ["6", "7"]},
+      {"name": "MTN Guinea", "prefixes": ["6", "7"]},
+      {"name": "Cellcom Guinea", "prefixes": ["6"]}
+    ]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "+245",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Guinea-Bissau Telecom", "prefixes": ["5", "6"]},
+      {"name": "MTN Guinea-Bissau", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Guyana",
+    "code": "+592",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "GTT", "prefixes": ["2", "6"]},
+      {"name": "Digicel Guyana", "prefixes": ["6", "7"]}
+    ]
+  },
+  {
+    "country": "Haiti",
+    "code": "+509",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Digicel Haiti", "prefixes": ["3", "4", "5"]},
+      {"name": "Natcom Haiti", "prefixes": ["3", "4", "5"]}
+    ]
+  },
+  {
+    "country": "Honduras",
+    "code": "+504",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Claro Honduras", "prefixes": ["3", "9"]},
+      {"name": "Tigo Honduras", "prefixes": ["3", "9"]},
+      {"name": "Hondutel", "prefixes": ["2"]}
+    ]
+  },
+  {
+    "country": "Hungary",
+    "code": "+36",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Magyar Telekom", "prefixes": ["20", "30", "70"]},
+      {"name": "Vodafone Hungary", "prefixes": ["20", "30", "70"]},
+      {"name": "Telenor Hungary", "prefixes": ["20", "30", "70"]}
+    ]
+  },
+  {
+    "country": "Iceland",
+    "code": "+354",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Síminn", "prefixes": ["6", "7"]},
+      {"name": "Vodafone Iceland", "prefixes": ["6", "7"]},
+      {"name": "Nova", "prefixes": ["6", "7"]}
+    ]
+  },
+  {
+    "country": "India",
+    "code": "+91",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Airtel India", "prefixes": ["7", "8", "9"]},
+      {"name": "Reliance Jio", "prefixes": ["6", "7", "8", "9"]},
+      {"name": "Vodafone Idea", "prefixes": ["7", "8", "9"]}
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "code": "+62",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Telkomsel", "prefixes": ["81", "82", "83"]},
+      {"name": "Indosat Ooredoo", "prefixes": ["85", "86", "87"]},
+      {"name": "XL Axiata", "prefixes": ["81", "82", "83"]}
+    ]
+  },
+  {
+    "country": "Iran",
+    "code": "+98",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Hamrah-e Aval", "prefixes": ["91", "93"]},
+      {"name": "MTN Irancell", "prefixes": ["90", "92"]},
+      {"name": "Rightel", "prefixes": ["92"]}
+    ]
+  },
+  {
+    "country": "Iraq",
+    "code": "+964",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Zain Iraq", "prefixes": ["750", "751"]},
+      {"name": "Asiacell", "prefixes": ["770", "771"]},
+      {"name": "Korek Telecom", "prefixes": ["760", "761"]}
+    ]
+  },
+  {
+    "country": "Ireland",
+    "code": "+353",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Vodafone Ireland", "prefixes": ["83", "85"]},
+      {"name": "Three Ireland", "prefixes": ["82", "89"]},
+      {"name": "Eir Ireland", "prefixes": ["86", "87"]}
+    ]
+  },
+  {
+    "country": "Israel",
+    "code": "+972",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Cellcom", "prefixes": ["50", "52", "54"]},
+      {"name": "Partner", "prefixes": ["57"]},
+      {"name": "Pelephone", "prefixes": ["52", "53"]}
+    ]
+  },
+  {
+    "country": "Italy",
+    "code": "+39",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "TIM", "prefixes": ["3", "3"]},
+      {"name": "Vodafone Italy", "prefixes": ["3", "3"]},
+      {"name": "Wind Tre", "prefixes": ["3", "3"]}
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "code": "+1-876",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Digicel Jamaica", "prefixes": ["3", "4", "5"]},
+      {"name": "FLOW Jamaica", "prefixes": ["3", "4", "5"]}
+    ]
+  },
+  {
+    "country": "Japan",
+    "code": "+81",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "NTT Docomo", "prefixes": ["70", "80", "90"]},
+      {"name": "KDDI au", "prefixes": ["70", "80", "90"]},
+      {"name": "SoftBank", "prefixes": ["70", "80", "90"]}
+    ]
+  },
+  {
+    "country": "Jordan",
+    "code": "+962",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Zain Jordan", "prefixes": ["79", "78"]},
+      {"name": "Orange Jordan", "prefixes": ["77"]},
+      {"name": "Umniah", "prefixes": ["78"]}
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "code": "+7",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Beeline Kazakhstan", "prefixes": ["701", "702"]},
+      {"name": "Kcell", "prefixes": ["705", "706"]},
+      {"name": "Tele2 Kazakhstan", "prefixes": ["777"]}
+    ]
+  },
+  {
+    "country": "Kenya",
+    "code": "+254",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Safaricom", "prefixes": ["70", "71", "72", "73", "74", "75", "76", "77"]},
+      {"name": "Airtel Kenya", "prefixes": ["73", "74", "75", "76"]},
+      {"name": "Telkom Kenya", "prefixes": ["71", "72", "79"]}
+    ]
+  },
+  {
+    "country": "Kiribati",
+    "code": "+686",
+    "phoneLength": 5,
+    "networks": [
+      {"name": "Kiribati Telecom Services", "prefixes": ["2", "3", "4"]},
+      {"name": "BeMobile", "prefixes": ["2", "3"]}
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "code": "+965",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Zain Kuwait", "prefixes": ["90", "91", "92"]},
+      {"name": "Ooredoo Kuwait", "prefixes": ["94", "95"]},
+      {"name": "Viva Kuwait", "prefixes": ["96", "97"]}
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "code": "+996",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Beeline Kyrgyzstan", "prefixes": ["500", "501"]},
+      {"name": "MegaCom", "prefixes": ["550", "551"]},
+      {"name": "O!", "prefixes": ["555"]}
+    ]
+  },
+  {
+    "country": "Laos",
+    "code": "+856",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Cellcard", "prefixes": ["20", "21"]},
+      {"name": "Lao Telecom", "prefixes": ["20", "21"]},
+      {"name": "Beeline Laos", "prefixes": ["20"]}
+    ]
+  },
+  {
+    "country": "Latvia",
+    "code": "+371",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Latvijas Mobilais Telefons", "prefixes": ["2", "3"]},
+      {"name": "Tele2 Latvia", "prefixes": ["2"]},
+      {"name": "Bite Latvia", "prefixes": ["2"]}
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "code": "+961",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Touch Lebanon", "prefixes": ["71", "76"]},
+      {"name": "Alfa Lebanon", "prefixes": ["70", "71"]}
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "code": "+266",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Vodacom Lesotho", "prefixes": ["55", "56"]},
+      {"name": "Africom Lesotho", "prefixes": ["57"]}
+    ]
+  },
+  {
+    "country": "Liberia",
+    "code": "+231",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Lonestar Cell MTN", "prefixes": ["55", "77"]},
+      {"name": "Cellcom Liberia", "prefixes": ["88"]},
+      {"name": "Novafone", "prefixes": ["66"]}
+    ]
+  },
+  {
+    "country": "Libya",
+    "code": "+218",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Libyana", "prefixes": ["91", "92"]},
+      {"name": "Almadar", "prefixes": ["94", "95"]},
+      {"name": "Hatif Libya", "prefixes": ["96"]}
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "code": "+423",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Telecom Liechtenstein", "prefixes": ["7"]},
+      {"name": "FL1", "prefixes": ["7"]}
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "code": "+370",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Telia Lithuania", "prefixes": ["6"]},
+      {"name": "Bitė Lietuva", "prefixes": ["6"]},
+      {"name": "Tele2 Lithuania", "prefixes": ["6"]}
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "code": "+352",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "POST Luxembourg", "prefixes": ["621", "622"]},
+      {"name": "Orange Luxembourg", "prefixes": ["661", "662"]},
+      {"name": "Eltrona", "prefixes": ["661"]}
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "code": "+261",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Telma Madagascar", "prefixes": ["32", "33"]},
+      {"name": "Orange Madagascar", "prefixes": ["34", "38"]},
+      {"name": "Airtel Madagascar", "prefixes": ["30", "31"]}
+    ]
+  },
+  {
+    "country": "Malawi",
+    "code": "+265",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Airtel Malawi", "prefixes": ["88", "99"]},
+      {"name": "TNM Malawi", "prefixes": ["88", "99"]}
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "code": "+60",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Maxis", "prefixes": ["12", "13", "14"]},
+      {"name": "Celcom", "prefixes": ["13", "14"]},
+      {"name": "Digi", "prefixes": ["12", "14"]}
+    ]
+  },
+  {
+    "country": "Maldives",
+    "code": "+960",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Dhiraagu", "prefixes": ["7", "9"]},
+      {"name": "Ooredoo Maldives", "prefixes": ["7", "9"]}
+    ]
+  },
+  {
+    "country": "Mali",
+    "code": "+223",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Orange Mali", "prefixes": ["66", "67"]},
+      {"name": "Malitel", "prefixes": ["65", "66"]}
+    ]
+  },
+  {
+    "country": "Malta",
+    "code": "+356",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "GO Malta", "prefixes": ["79", "99"]},
+      {"name": "Melita Malta", "prefixes": ["77", "98"]}
+    ]
+  },
+  {
+    "country": "Marshall Islands",
+    "code": "+692",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Marshall Islands National Telecommunications Authority", "prefixes": ["6"]},
+      {"name": "Wireless Marshall Islands", "prefixes": ["6"]}
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "code": "+222",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Mauritel", "prefixes": ["40", "41", "42"]},
+      {"name": "Chinguitel", "prefixes": ["43", "44"]}
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "code": "+230",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Mauritius Telecom", "prefixes": ["5", "4"]},
+      {"name": "Emtel", "prefixes": ["5", "4"]},
+      {"name": "Chili", "prefixes": ["5"]}
+    ]
+  },
+  {
+    "country": "Mexico",
+    "code": "+52",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Telcel", "prefixes": ["55", "56", "57", "58"]},
+      {"name": "Movistar Mexico", "prefixes": ["55", "56"]},
+      {"name": "AT&T Mexico", "prefixes": ["55", "56"]}
+    ]
+  },
+  {
+    "country": "Micronesia",
+    "code": "+691",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "FSM Telecommunications Corporation", "prefixes": ["3", "4"]},
+      {"name": "PNCC", "prefixes": ["3", "4"]}
+    ]
+  },
+  {
+    "country": "Moldova",
+    "code": "+373",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Moldcell", "prefixes": ["69", "60"]},
+      {"name": "Orange Moldova", "prefixes": ["69"]},
+      {"name": "Tele2 Moldova", "prefixes": ["68"]}
+    ]
+  },
+  {
+    "country": "Monaco",
+    "code": "+377",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Monaco Telecom", "prefixes": ["6", "7"]},
+      {"name": "SFR Monaco", "prefixes": ["6", "7"]}
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "code": "+976",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Mobicom", "prefixes": ["88", "89"]},
+      {"name": "Unitel Mongolia", "prefixes": ["99", "95"]}
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "code": "+382",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Crnogorski Telekom", "prefixes": ["67", "68"]},
+      {"name": "Telenor Montenegro", "prefixes": ["69", "67"]}
+    ]
+  },
+  {
+    "country": "Morocco",
+    "code": "+212",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Maroc Telecom", "prefixes": ["06", "07"]},
+      {"name": "Orange Morocco", "prefixes": ["06", "07"]},
+      {"name": "Inwi", "prefixes": ["06", "07"]}
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "code": "+258",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "mCel", "prefixes": ["82", "83", "84"]},
+      {"name": "Movitel", "prefixes": ["84", "85"]},
+      {"name": "Vodacom Mozambique", "prefixes": ["82", "83"]}
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "code": "+95",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MPT", "prefixes": ["9"]},
+      {"name": "Telenor Myanmar", "prefixes": ["9"]},
+      {"name": "Ooredoo Myanmar", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Namibia",
+    "code": "+264",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTC Namibia", "prefixes": ["81", "82"]},
+      {"name": "TN Mobile", "prefixes": ["85", "86"]},
+      {"name": "Paratus Namibia", "prefixes": ["88"]}
+    ]
+  },
+  {
+    "country": "Nauru",
+    "code": "+674",
+    "phoneLength": 5,
+    "networks": [
+      {"name": "Telecom Nauru", "prefixes": ["2", "3"]},
+      {"name": "Centre Telecom", "prefixes": ["2"]}
+    ]
+  },
+  {
+    "country": "Nepal",
+    "code": "+977",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Ncell", "prefixes": ["98", "97"]},
+      {"name": "NTC Nepal", "prefixes": ["98", "97"]}
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "code": "+31",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "KPN", "prefixes": ["6"]},
+      {"name": "Vodafone Netherlands", "prefixes": ["6"]},
+      {"name": "T-Mobile Netherlands", "prefixes": ["6"]}
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "code": "+64",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Vodafone New Zealand", "prefixes": ["21", "27"]},
+      {"name": "Spark New Zealand", "prefixes": ["20", "22"]},
+      {"name": "2degrees", "prefixes": ["21", "25"]}
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "code": "+505",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Claro Nicaragua", "prefixes": ["85", "86"]},
+      {"name": "Movistar Nicaragua", "prefixes": ["82", "83"]},
+      {"name": "Tigo Nicaragua", "prefixes": ["84", "85"]}
+    ]
+  },
+  {
+    "country": "Niger",
+    "code": "+227",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "MTN Niger", "prefixes": ["90", "96"]},
+      {"name": "Moov Niger", "prefixes": ["91", "92"]},
+      {"name": "Orange Niger", "prefixes": ["97"]}
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "code": "+234",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "MTN Nigeria", "prefixes": ["70", "80", "81", "90"]},
+      {"name": "Airtel Nigeria", "prefixes": ["70", "80", "81"]},
+      {"name": "Glo Nigeria", "prefixes": ["70", "80", "81"]}
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "code": "+389",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "A1 Macedonia", "prefixes": ["70", "71"]},
+      {"name": "Telekom Macedonia", "prefixes": ["72", "73"]},
+      {"name": "Lycamobile", "prefixes": ["78"]}
+    ]
+  },
+  {
+    "country": "Norway",
+    "code": "+47",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Telenor Norway", "prefixes": ["4", "9"]},
+      {"name": "Telia Norway", "prefixes": ["9"]},
+      {"name": "Ice Norway", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Oman",
+    "code": "+968",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Omantel", "prefixes": ["9"]},
+      {"name": "Ooredoo Oman", "prefixes": ["9"]},
+      {"name": "Renna Mobile", "prefixes": ["9"]}
+    ]
+    },
+{
+    "country": "Pakistan",
+    "code": "+92",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Jazz", "prefixes": ["300","301","302","303","304","305","306","307","308","309"]},
+      {"name": "Telenor Pakistan", "prefixes": ["340","341","342","343","344","345","346","347","348","349"]},
+      {"name": "Zong", "prefixes": ["310","311","312","313","314","315","316","317","318","319"]},
+      {"name": "Ufone", "prefixes": ["320","321","322","323","324","325","326","327","328","329"]}
+    ]
+  },
+  {
+    "country": "Palau",
+    "code": "+680",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Palau Telecom", "prefixes": ["1","2","3"]}
+    ]
+  },
+  {
+    "country": "Panama",
+    "code": "+507",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Movistar Panama", "prefixes": ["6","7"]},
+      {"name": "Claro Panama", "prefixes": ["6","7"]},
+      {"name": "Digicel Panama", "prefixes": ["6","7"]}
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "code": "+675",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Telikom PNG", "prefixes": ["3","7"]},
+      {"name": "Bmobile PNG", "prefixes": ["6","7"]},
+      {"name": "Digicel PNG", "prefixes": ["7","8"]}
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "code": "+595",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Claro Paraguay", "prefixes": ["9"]},
+      {"name": "Personal Paraguay", "prefixes": ["9"]},
+      {"name": "Tigo Paraguay", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Peru",
+    "code": "+51",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Movistar Peru", "prefixes": ["9"]},
+      {"name": "Claro Peru", "prefixes": ["9"]},
+      {"name": "Entel Peru", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Philippines",
+    "code": "+63",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Globe Telecom", "prefixes": ["905","906","915","916","917","918","919","920","921","922","923","924","925","926","927","928","929"]},
+      {"name": "Smart Communications", "prefixes": ["908","909","910","911","912","918","919","920","921","922","923","924","925","926","927","928","929"]},
+      {"name": "Sun Cellular", "prefixes": ["922","923","924","925"]}
+    ]
+  },
+  {
+    "country": "Poland",
+    "code": "+48",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Orange Polska", "prefixes": ["50","51","53"]},
+      {"name": "T-Mobile Poland", "prefixes": ["53","57","60"]},
+      {"name": "Plus", "prefixes": ["60","66","69"]},
+      {"name": "Play", "prefixes": ["60","61","62","63","66"]}
+    ]
+  },
+  {
+    "country": "Portugal",
+    "code": "+351",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MEO", "prefixes": ["91","92","93","96"]},
+      {"name": "NOS", "prefixes": ["91","92","93","96"]},
+      {"name": "Vodafone Portugal", "prefixes": ["91","92","93","96"]}
+    ]
+  },
+  {
+    "country": "Qatar",
+    "code": "+974",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Ooredoo Qatar", "prefixes": ["3","4","5","6","7"]},
+      {"name": "Vodafone Qatar", "prefixes": ["3","4","5","6","7"]},
+      {"name": "Qatar Telecom", "prefixes": ["3","4","5","6","7"]}
+    ]
+  },
+  {
+    "country": "Romania",
+    "code": "+40",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Orange Romania", "prefixes": ["70","72","73","74","75"]},
+      {"name": "Vodafone Romania", "prefixes": ["72","73","74","75","76"]},
+      {"name": "Telekom Romania", "prefixes": ["71","72","73","74","75","76"]}
+    ]
+  },
+  {
+    "country": "Russia",
+    "code": "+7",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "MTS", "prefixes": ["910","911","912","913","914","915","916","917","918","919"]},
+      {"name": "MegaFon", "prefixes": ["920","921","922","923","924","925","926","927","928","929"]},
+      {"name": "Beeline", "prefixes": ["903","905","906","909","960","961","962","963","964","965"]}
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "code": "+250",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN Rwanda", "prefixes": ["78","79","75"]},
+      {"name": "Airtel Rwanda", "prefixes": ["73","72","70"]}
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "code": "+1-869",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Cable & Wireless", "prefixes": ["2","3","4","5","6","7","8","9"]}
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "code": "+1-758",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Cable & Wireless", "prefixes": ["2","3","4","5","6","7","8","9"]}
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "code": "+1-784",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Cable & Wireless", "prefixes": ["2","3","4","5","6","7","8","9"]}
+    ]
+  },
+  {
+    "country": "Samoa",
+    "code": "+685",
+    "phoneLength": 5,
+    "networks": [
+      {"name": "Bluesky Samoa", "prefixes": ["2","3","4","5"]},
+      {"name": "Digicel Samoa", "prefixes": ["6","7","8","9"]}
+    ]
+  },
+  {
+    "country": "San Marino",
+    "code": "+378",
+    "phoneLength": 6,
+    "networks": [
+      {"name": "San Marino Telecom", "prefixes": ["6"]}
+    ]
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "+239",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "CST", "prefixes": ["2","3","6","7"]},
+      {"name": "TVS", "prefixes": ["5","7"]}
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "+966",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "STC", "prefixes": ["50","53","54","55","56","57","58","59"]},
+      {"name": "Mobily", "prefixes": ["52","53","54","55","56","57"]},
+      {"name": "Zain Saudi Arabia", "prefixes": ["53","54","55","56","57"]}
+    ]
+  },
+  {
+    "country": "Senegal",
+    "code": "+221",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Orange Senegal", "prefixes": ["70","76","77","78","79"]},
+      {"name": "Expresso Senegal", "prefixes": ["75"]},
+      {"name": "Tigo Senegal", "prefixes": ["76","77","78","79"]}
+    ]
+  },
+  {
+    "country": "Serbia",
+    "code": "+381",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "mts Serbia", "prefixes": ["60","61","62","63","64","65"]},
+      {"name": "Vip mobile", "prefixes": ["63","64","65"]},
+      {"name": "Telenor Serbia", "prefixes": ["60","61","62","63","64"]}
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "code": "+248",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Seychelles Telekom", "prefixes": ["2","3"]},
+      {"name": "Cable & Wireless", "prefixes": ["4","5"]}
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "+232",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Africell", "prefixes": ["20","21","22","23","24"]},
+      {"name": "Orange Sierra Leone", "prefixes": ["30","31","32","33"]}
+    ]
+  },
+  {
+    "country": "Singapore",
+    "code": "+65",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Singtel", "prefixes": ["8"]},
+      {"name": "StarHub", "prefixes": ["8"]},
+      {"name": "M1", "prefixes": ["8"]}
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "code": "+421",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Orange Slovakia", "prefixes": ["90","91","95"]},
+      {"name": "Telekom Slovakia", "prefixes": ["94","95"]},
+      {"name": "O2 Slovakia", "prefixes": ["92","94","95"]}
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "code": "+386",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Telekom Slovenije", "prefixes": ["30","31","40","41"]},
+      {"name": "A1 Slovenia", "prefixes": ["31","41","51"]}
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "code": "+677",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Our Telekom", "prefixes": ["7"]},
+      {"name": "Bmobile SI", "prefixes": ["8"]}
+    ]
+  },
+  {
+    "country": "Somalia",
+    "code": "+252",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Hormuud", "prefixes": ["61","62","63","64","65","66","67","68"]},
+      {"name": "Somtel", "prefixes": ["60","61","62","63","64","65"]}
+    ]
+  },
+  {
+    "country": "South Africa",
+    "code": "+27",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Vodacom", "prefixes": ["60","61","62","63","64","65","66","67","68","69"]},
+      {"name": "MTN South Africa", "prefixes": ["60","61","62","63","64","65","66","67","68","69"]},
+      {"name": "Cell C", "prefixes": ["60","61","62","63","64","65"]},
+      {"name": "Telkom SA", "prefixes": ["62","63","64","65","66"]}
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "code": "+211",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN South Sudan", "prefixes": ["92","93","94","95","96","97"]},
+      {"name": "Zain South Sudan", "prefixes": ["91","92","93","94","95","96"]}
+    ]
+  },
+  {
+    "country": "Spain",
+    "code": "+34",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Movistar Spain", "prefixes": ["6","7"]},
+      {"name": "Vodafone Spain", "prefixes": ["6","7"]},
+      {"name": "Orange Spain", "prefixes": ["6","7"]}
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "code": "+94",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Dialog Axiata", "prefixes": ["71","72","75","76","77","78","79"]},
+      {"name": "Mobitel", "prefixes": ["70","71","72","75","76","77","78"]},
+      {"name": "Hutch", "prefixes": ["74","75","76","77","78"]}
+    ]
+  },
+  {
+    "country": "Sudan",
+    "code": "+249",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Zain Sudan", "prefixes": ["90","91","92","93","94"]},
+      {"name": "MTN Sudan", "prefixes": ["92","93","94","95"]},
+      {"name": "Sudani", "prefixes": ["91","92","93"]}
+    ]
+  },
+  {
+    "country": "Suriname",
+    "code": "+597",
+    "phoneLength": 7,
+    "networks": [
+      {"name": "Telesur", "prefixes": ["4","5","6"]},
+      {"name": "Digicel Suriname", "prefixes": ["8","9"]}
+    ]
+  },
+  {
+    "country": "Sweden",
+    "code": "+46",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Telia Sweden", "prefixes": ["70","72","73","76"]},
+      {"name": "Tele2", "prefixes": ["73","76"]},
+      {"name": "Telenor Sweden", "prefixes": ["72","73","76"]}
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "code": "+41",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Swisscom", "prefixes": ["74","75","76","77"]},
+      {"name": "Sunrise", "prefixes": ["79"]},
+      {"name": "Salt", "prefixes": ["76","77","78"]}
+    ]
+  },
+  {
+    "country": "Syria",
+    "code": "+963",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Syriatel", "prefixes": ["93","94","95","96"]},
+      {"name": "MTN Syria", "prefixes": ["94","95","96"]}
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "code": "+886",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Chunghwa Telecom", "prefixes": ["9"]},
+      {"name": "Taiwan Mobile", "prefixes": ["9"]},
+      {"name": "Far EasTone", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "code": "+992",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Tcell", "prefixes": ["90","91","92","93","94","95","96"]},
+      {"name": "Babilon-T", "prefixes": ["98","99"]}
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "code": "+255",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Vodacom Tanzania", "prefixes": ["65","66","67","68"]},
+      {"name": "Airtel Tanzania", "prefixes": ["68","69"]},
+      {"name": "Tigo Tanzania", "prefixes": ["71","72","73","74"]},
+      {"name": "Halotel", "prefixes": ["75","76"]}
+    ]
+  },
+  {
+    "country": "Uganda",
+    "code": "+256",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN Uganda", "prefixes": ["70","71","72","75","76"]},
+      {"name": "Airtel Uganda", "prefixes": ["77","78","79"]},
+      {"name": "Uganda Telecom", "prefixes": ["31","32"]}
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "code": "+380",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Kyivstar", "prefixes": ["039","067","068","096","097","098"]},
+      {"name": "Vodafone Ukraine", "prefixes": ["050","066","095","099"]},
+      {"name": "Lifecell", "prefixes": ["063","073","093"]}
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "code": "+971",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Etisalat UAE", "prefixes": ["50","55","56","58"]},
+      {"name": "du UAE", "prefixes": ["52","54","55","56"]}
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "code": "+44",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "EE", "prefixes": ["70","71","72","73","74","75","76","77","78","79"]},
+      {"name": "Vodafone UK", "prefixes": ["70","71","72","73","74","75","76","77","78","79"]},
+      {"name": "O2 UK", "prefixes": ["70","71","72","73","74","75","76","77","78","79"]},
+      {"name": "Three UK", "prefixes": ["70","71","72","73","74","75","76","77","78","79"]}
+    ]
+  },
+  {
+    "country": "United States",
+    "code": "+1",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "AT&T", "prefixes": ["201","202","203","205","206","207","208"]},
+      {"name": "Verizon", "prefixes": ["201","202","203","205","206","207","208"]},
+      {"name": "T-Mobile USA", "prefixes": ["201","202","203","205","206","207","208"]},
+      {"name": "Sprint", "prefixes": ["201","202","203","205","206","207","208"]}
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "code": "+598",
+    "phoneLength": 8,
+    "networks": [
+      {"name": "Antel", "prefixes": ["9"]},
+      {"name": "Movistar Uruguay", "prefixes": ["9"]},
+      {"name": "Claro Uruguay", "prefixes": ["9"]}
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "code": "+998",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Beeline Uzbekistan", "prefixes": ["90","91","93","94"]},
+      {"name": "Ucell", "prefixes": ["97","98"]},
+      {"name": "Uzmobile", "prefixes": ["95","99"]}
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "code": "+678",
+    "phoneLength": 5,
+    "networks": [
+      {"name": "Telsat Vanuatu", "prefixes": ["2","3"]},
+      {"name": "Vodafone Vanuatu", "prefixes": ["7","8"]}
+    ]
+  },
+  {
+    "country": "Vatican City",
+    "code": "+379",
+    "phoneLength": 6,
+    "networks": [
+      {"name": "Vatican Telecom", "prefixes": ["6"]}
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "code": "+58",
+    "phoneLength": 10,
+    "networks": [
+      {"name": "Movistar Venezuela", "prefixes": ["0412","0414","0416","0424","0426"]},
+      {"name": "Digitel", "prefixes": ["0412","0414","0416","0424","0426"]},
+      {"name": "Movilnet", "prefixes": ["0412","0414","0416","0424","0426"]}
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "code": "+84",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Viettel", "prefixes": ["86","96","97","98","99"]},
+      {"name": "Vinaphone", "prefixes": ["88","91","94"]},
+      {"name": "Mobifone", "prefixes": ["89","90","93"]}
+    ]
+  },
+  {
+    "country": "Yemen",
+    "code": "+967",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN Yemen", "prefixes": ["71","73","77","78"]},
+      {"name": "Sabafon", "prefixes": ["70","71","72","73"]},
+      {"name": "Yemen Mobile", "prefixes": ["75","76","77","78"]}
+    ]
+  },
+  {
+    "country": "Zambia",
+    "code": "+260",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "MTN Zambia", "prefixes": ["95","96","97","98"]},
+      {"name": "Airtel Zambia", "prefixes": ["90","91","92","93"]},
+      {"name": "Zamtel", "prefixes": ["96","97","98"]}
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "+263",
+    "phoneLength": 9,
+    "networks": [
+      {"name": "Econet Wireless", "prefixes": ["71","72","73","74"]},
+      {"name": "NetOne", "prefixes": ["71","72","73"]},
+      {"name": "Telecel Zimbabwe", "prefixes": ["73","74","75"]}
+    ]
+  },
+  {
+    "country": "Zambia",
+    "code": "+260",
+    "phoneLength": 9,
+    "networks": [
+      { "name": "MTN Zambia", "prefixes": ["95","96","97","98"] },
+      { "name": "Airtel Zambia", "prefixes": ["90","91","92","93"] },
+      { "name": "Zamtel", "prefixes": ["96","97","98"] }
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "+263",
+    "phoneLength": 9,
+    "networks": [
+      { "name": "Econet Wireless", "prefixes": ["71","72","73","74"] },
+      { "name": "NetOne", "prefixes": ["71","72","73"] },
+      { "name": "Telecel Zimbabwe", "prefixes": ["73","74","75"] }
+    ]
+  }
+]

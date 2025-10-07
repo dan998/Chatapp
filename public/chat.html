@@ -4,19 +4,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Chat App</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="chat.css">
 <script src="/socket.io/socket.io.js"></script>
 </head>
 <body>
 <div class="container">
-  <h2>Chat App</h2>
-  <div id="contacts"></div>
-  <div id="typingIndicator"></div>
-  <div id="chatBox"></div>
-  <div style="display:flex;">
-    <input type="text" id="msgInput" placeholder="Type a message...">
-    <button id="sendBtn">Send</button>
-  </div>
+    <div class="contacts-panel">
+        <h2>Contacts</h2>
+        <div id="contacts"></div>
+    </div>
+    <div class="chat-panel">
+        <div id="chatBox" class="chat-box"></div>
+        <div id="typingIndicator" class="typing"></div>
+        <div id="bulkActions" class="bulk-actions"></div> <!-- For multi-select actions -->
+        <div class="input-area">
+            <input type="text" id="msgInput" placeholder="Type a message...">
+            <button id="sendBtn">Send</button>
+            <button id="clearSelfChatBtn">Clear Self Chat</button>
+        </div>
+    </div>
 </div>
 <script src="chat.js"></script>
 </body>

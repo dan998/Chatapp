@@ -1,114 +1,126 @@
 body {
-  font-family: sans-serif;
-  background: #f4f4f4;
-  margin: 0;
-  padding: 0;
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f0f0f0;
 }
 
 .container {
-  max-width: 500px;
-  margin: 50px auto;
-  background: #fff;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display:flex;
+    height:100vh;
 }
 
-h2 {
-  text-align: center;
-  margin-bottom: 20px;
+.contacts-panel {
+    width:25%;
+    background:#fff;
+    border-right:1px solid #ccc;
+    display:flex;
+    flex-direction:column;
+    padding:10px;
 }
 
-/* Inputs and buttons */
-input, button {
-  width: 100%;
-  padding: 10px;
-  margin: 6px 0;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  font-size: 15px;
+.contacts-panel h2 {
+    margin-top:0;
+    text-align:center;
 }
 
-button {
-  cursor: pointer;
-  background: #007bff;
-  color: #fff;
-  border: none;
-  transition: all 0.3s ease;
+.contact {
+    padding:10px;
+    cursor:pointer;
+    border-radius:5px;
+    margin-bottom:5px;
+    background:#f9f9f9;
 }
 
-button:hover {
-  background: #0056b3;
+.contact:hover {
+    background:#e0e0e0;
 }
 
-/* Textarea */
-textarea {
-  width: 100%;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  padding: 10px;
-  resize: none;
+.contact.selected {
+    background:#d0f0d0;
 }
 
-/* Links */
-a {
-  text-decoration: none;
-  color: #007bff;
+.chat-panel {
+    width:75%;
+    display:flex;
+    flex-direction:column;
+    background:#e5ddd5;
+    padding:10px;
 }
 
-a:hover {
-  text-decoration: underline;
+.chat-box {
+    flex:1;
+    overflow-y:auto;
+    padding:10px;
 }
 
-/* Contacts and chat */
-#contacts {
-  border: 1px solid #ccc;
-  padding: 10px;
-  height: 150px;
-  overflow-y: auto;
-  margin-bottom: 10px;
-}
-
-#chatBox {
-  border: 1px solid #ccc;
-  height: 300px;
-  overflow-y: auto;
-  padding: 10px;
-  margin-bottom: 10px;
-  background: #f9f9f9;
-}
-
-/* Input row */
-#msgInput {
-  width: calc(100% - 100px);
-  padding: 10px;
-  display: inline-block;
-}
-
-#sendBtn {
-  width: 80px;
-  padding: 10px;
-  display: inline-block;
-}
-
-/* Typing indicator */
-#typingIndicator {
-  color: #555;
-  font-size: 0.9em;
-  margin-bottom: 5px;
-}
-
-/* Messages */
 .message {
-  margin: 5px 0;
+    padding:8px 12px;
+    margin:5px 0;
+    border-radius:15px;
+    max-width:60%;
+    word-wrap: break-word;
 }
 
 .message.you {
-  text-align: right;
-  color: blue;
+    background:#dcf8c6;
+    align-self:flex-end;
 }
 
 .message.them {
-  text-align: left;
-  color: green;
+    background:#fff;
+    align-self:flex-start;
+}
+
+.input-area {
+    display:flex;
+    gap:5px;
+    margin-top:10px;
+}
+
+.input-area input {
+    flex:1;
+    padding:10px;
+    border-radius:20px;
+    border:1px solid #ccc;
+}
+
+.input-area button {
+    padding:10px 15px;
+    border:none;
+    border-radius:20px;
+    background:#128c7e;
+    color:white;
+    cursor:pointer;
+}
+
+.input-area button:hover {
+    background:#075e54;
+}
+
+.typing {
+    font-size:0.9em;
+    color:#555;
+    margin:2px 0;
+}
+
+.msg-menu {
+    position:absolute;
+    background:#fff;
+    border:1px solid #ccc;
+    padding:5px;
+    display:flex;
+    flex-direction:column;
+    z-index:1000;
+}
+
+.msg-menu button {
+    border:none;
+    background:none;
+    padding:5px 10px;
+    cursor:pointer;
+    text-align:left;
+}
+
+.msg-menu button:hover {
+    background:#eee;
 }
